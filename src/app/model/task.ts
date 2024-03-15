@@ -1,4 +1,4 @@
 export class Task {
-    id: number=0 ;
+    id: string=Math.random().toString(36).substring(2, 10);
     task_name: string='' ; 
 }

@@ -1,1 +1,24 @@
-{}
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task_name": "I love Angular"
+    },
+    {
+      "id": 0,
+      "task_name": "Ramadan Kareem"
+    },
+    {
+      "id": 0,
+      "task_name": "Suhur hours"
+    },
+    {
+      "id": 0,
+      "task_name": "Salam muslims"
+    },
+    {
+      "id": 0,
+      "task_name": "Bismillah"
+    }
+  ]
+}
